@@ -18,7 +18,7 @@ npm i
 
 ## Базовый URL
 
-http://localhost:3000/api/appeals
+http://localhost:3000/api/appeals либо http://localhost:9000/api/appeals (если не указан порт в файле .env)
 
 ### Статусы обращений
 * Новое - новое созданное обращение
